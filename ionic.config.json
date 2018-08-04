@@ -1,0 +1,7 @@
+{
+  "name": "plog",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
